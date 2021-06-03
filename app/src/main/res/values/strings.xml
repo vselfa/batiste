@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="title">Titolet</string>
+    <string name="home">Inici</string>
+    <string name="menjar_nom">Nom producte</string>
+    <string name="menjar_descripcio">Descripció producte</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="list_view">Llista productes</string>
+    <string name="check_toast">Producte seleccionat </string>
+
+</resources>
